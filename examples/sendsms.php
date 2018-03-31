@@ -2,7 +2,7 @@
 
 require_once('../nasaramobileapiclient.php');
 
-$phone = "233244209193";
+$phone = "233244xxxxx";
 $senderId = "Testing";
 $message = "hey there, this is a test message!";
 
